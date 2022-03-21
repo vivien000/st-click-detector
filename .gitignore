@@ -1,0 +1,7 @@
+st_click_detector/frontend/node_modules/
+st_click_detector/frontend/build/
+st_click_detector/frontend/package-lock.json
+build/
+dist/
+.vscode/
+st_click_detector.egg-info/
