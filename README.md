@@ -4,7 +4,7 @@
 
 ![Screenshot](screenshot.gif)
 
-A more advanced example can be seen live [here](https://huggingface.co/spaces/vivien/semanticsearch).
+A more advanced example can be seen live [here](https://huggingface.co/spaces/vivien/semantic-search2).
 
 ## Installation
 
